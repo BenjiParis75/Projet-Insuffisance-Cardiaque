@@ -1,5 +1,4 @@
-# Projet-Insuffisance-Cardiaque
-Projet personnel en data-analyse
+<u>Projet personnel en data-analyse</u>
 
 Ce projet personnel a pour but de mettre en valeur l'ensemble des compétences acquises en data-analyse. 
 J'ai décidé d'étudier un dataset que j'ai trouvé sur le site Kaggle en lien avec le secteur médical sur le sujet des maladies cardiaques. Après avoir étudié un projet en lien avec le domaine sportif durant ma formation, j'ai voulu exploité un jeu de données d'un domaine que j'ai apprécie également.
