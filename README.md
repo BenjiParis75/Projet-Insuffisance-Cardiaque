@@ -7,6 +7,6 @@ Dans un premier temps, j'ai posé la problématque suivante:
 Peut-on prédire si un patient est malade ou non grâce à la data-analyse et à des algorythmes de Machine Learning?
 Le document "Projet Insuffisance Cardiaque.ipynb" repond à cette problématique.  
 Puis dans un second temps, j'ai effectué une étude de reporting grâce au logiciel PowerBI du dataset afin de mieux viauliser l'influence de l'ensemble des variables sur le fait d'être malade ou non.  
-Un document pdf est également mis à disposition pour visualiser le reporting sans le logicial.  
+Un document pdf est également mis à disposition pour visualiser le reporting sans le logiciel.  
 
 En vous souhaitant une bonne lecture, j'espère que vous prendrez autant de plaisir à lire ce rapport que j'ai eu à l'écrire.
